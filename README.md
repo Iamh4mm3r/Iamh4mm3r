@@ -2,6 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="Henrique Onofre - Cybersecurity">
 </p>
 
+<div align="center">
 # 👋 Olá, eu sou **Henrique Onofre**
 
 ### 🛡️ Analista de Segurança da Informação | SOC | Blue Team
