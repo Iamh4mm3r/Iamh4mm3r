@@ -2,8 +2,10 @@
   <img src="./assets/banner.png" width="100%" alt="Henrique Onofre - Cybersecurity">
 </p>
 
-<div align="center">
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=180&section=header&text=HENRIQUE%20ONOFRE&fontSize=38&fontColor=00ff9d&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20BLUE%20TEAM&descAlignY=62&descSize=16&descColor=94a3b8" width="100%"/>
 # 👋 Olá, eu sou **Henrique Onofre**
 
 ### 🛡️ Analista de Segurança da Informação | SOC | Blue Team
